@@ -1,0 +1,4 @@
+- Remove duplicates (Excel Remove Duplicates)
+- Organize dataset
+- Distinguish each attribute to its appropriate coloumn(s)
+
