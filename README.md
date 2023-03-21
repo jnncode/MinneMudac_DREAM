@@ -1,6 +1,5 @@
 # MinneMudac-MinneAnalytics
----
-# The Dream Team
+The Dream Team
 * J Nguyen
 * Aidan Cavanaugh
 * Brandon Leung
