@@ -1,5 +1,4 @@
-﻿Column1.1,Column1.2,Column1.3,Column1.4,Column1.5,Column1.6,Column1.7,Column1.8,Column1.9,Column1.10,Column1.11,Column1.12,Column1.13,Column1.14,Column1.15,Column1.16,Column1.17,Column1.18
-Date,NumberofGames,DayofWeek,VisitingTeam,VisitingTeamLeague,VisitingTeamGameNumber,HomeTeam,HomeTeamLeague,HomeTeamGameNumber,VistingTeamScore,HomeTeamScore,NumberofOuts,DayNight,Completition_Information,Forfeit_Information,Protest_Information,BallParkID,Attendance
+﻿Date,NumberofGames,DayofWeek,VisitingTeam,VisitingTeamLeague,VisitingTeamGameNumber,HomeTeam,HomeTeamLeague,HomeTeamGameNumber,VistingTeamScore,HomeTeamScore,NumberofOuts,DayNight,Completition_Information,Forfeit_Information,Protest_Information,BallParkID,Attendance
 20000329,0,Wed,CHN,NL,1,NYN,NL,1,5,3,54,N,,,,TOK01,55000
 20000330,0,Thu,NYN,NL,2,CHN,NL,2,5,1,66,N,,,,TOK01,55000
 20000403,0,Mon,COL,NL,1,ATL,NL,1,0,2,51,D,,,,ATL02,42255
