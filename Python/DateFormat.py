@@ -5,7 +5,7 @@ def date_format_help(file):
     :return: None
     """
     in_file = open(file, 'r')
-    out_file = open('../GameLogsCSV/RevisedData2.csv', 'w')
+    out_file = open('GameLogsCSV\DateFormat.csv', 'w')
     out_file.write(in_file.readline())
 
     for line in in_file:
@@ -17,7 +17,7 @@ def date_format_help(file):
     out_file.close()
 
 def main():
-    file_path = "../GameLogsCSV/RevisedData.csv"
+    file_path = "GameLogsCSV\RemovedDuplicates.csv"
     date_format_help(file_path)
 
 if __name__ == "__main__":
