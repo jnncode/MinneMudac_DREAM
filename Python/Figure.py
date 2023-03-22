@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 dtype={""}
 
-data = pd.read_csv(r"../GameLogsCSV/RemovedDuplicates.csv") 
+data = pd.read_csv(r"GameLogsCSV\DateFormat.csv") 
 
 data.sort_values(["Date"], axis=0, ascending=[False], inplace=True)
 data.sort_values(["NumberofGames"], axis=0, ascending=[False], inplace=True)
