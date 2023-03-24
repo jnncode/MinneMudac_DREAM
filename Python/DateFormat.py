@@ -5,7 +5,7 @@ def date_format_help(file):
     :return: None
     """
     in_file = open(file, 'r')
-    out_file = open('GameLogsCSV\DateFormat.csv', 'w')
+    out_file = open("GameLogsCSV\DateFormat.csv", "w")
     out_file.write(in_file.readline())
 
     for line in in_file:
