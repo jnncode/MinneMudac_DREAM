@@ -8,4 +8,4 @@
 - Data Scrubbing
 
 ### Deliverables
-Python + SQL
+Python, SQL
